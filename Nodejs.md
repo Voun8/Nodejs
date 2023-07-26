@@ -910,7 +910,7 @@ function readStaticFile(req, res) {
 
 ##### 1.特色
 
-<img src="%E7%AC%94%E8%AE%B0.assets/image-20220411103139587.png" alt="image-20220411103139587" style="zoom: 50%;float:left;" />
+<img src="https://cdn.jsdelivr.net/gh/Voun8/ty_imgs//image-20220411103139587.png" alt="image-20220411103139587" style="zoom: 50%;float:left;" />
 
 ##### 2.安装
 
@@ -1257,7 +1257,7 @@ http://localhost:3000/static/hello.html
 
 ##### 7.服务端渲染（模板引擎）
 
-<img src="%E7%AC%94%E8%AE%B0.assets/image-20220411104609389.png" alt="image-20220411104609389" style="zoom:50%;float:left" />
+<img src="https://cdn.jsdelivr.net/gh/Voun8/ty_imgs//image-20220411104609389.png" alt="image-20220411104609389" style="zoom:50%;float:left" />
 
 ```js
 npm i ejs
@@ -1268,7 +1268,7 @@ npm i ejs
 - views, 放模板文件的目录，比如： app.set('views', './views')
 - view engine, 模板引擎，比如： app.set('view engine', 'ejs')
 
-<img src="%E7%AC%94%E8%AE%B0.assets/image-20220411104652068.png" alt="image-20220411104652068" style="zoom:50%;float:left" />
+<img src="https://cdn.jsdelivr.net/gh/Voun8/ty_imgs//image-20220411104652068.png" alt="image-20220411104652068" style="zoom:50%;float:left" />
 
 #### 三、MongoDB
 
